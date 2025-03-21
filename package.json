@@ -1,0 +1,18 @@
+{
+  "name": "type_02",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "git": "^0.1.5",
+    "live-server": "^1.2.2",
+    "node-modules": "^1.0.1"
+  }
+}
